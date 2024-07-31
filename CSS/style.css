@@ -1,0 +1,18 @@
+.color{
+    background-color: mediumspringgreen;
+    color: orange;
+}
+h1{
+    color: orange;
+    border: 10px;
+    padding: 20px;
+    background-color: black;
+    align-items: center;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+a{
+    font-size: 30px;
+}
