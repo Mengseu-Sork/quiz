@@ -14,6 +14,7 @@ img{
     width: 100%;
 }
 a{
-    padding: 100pt;
+    padding: 10pt;
     margin: 10px;
+    font-size: 20px;
 }
